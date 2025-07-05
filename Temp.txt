@@ -1,0 +1,45 @@
+7961
+5
+shawaiz ali
+irtaza shahzad
+1
+8578
+5
+babar azam
+imran khan
+1
+8869
+4
+soban qamar
+irtaza shahzad
+2
+2573
+4
+kobe bryant
+simran
+1
+1588
+4
+babar azam
+leo messi
+2
+2189
+4
+nawaz shareef
+imran khan
+2
+4495
+4
+leo messi
+nawaz shareef
+2
+6686
+4
+nawaz shareef
+cristiano ronaldo
+1
+2663
+5
+irtaza shahzad
+shawaiz ali
+1

@@ -1,4 +1,5 @@
 # 🎮 Bingo: SFML Edition (Semester Project)
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
 A classic **Bingo** game developed in **C++** and brought to life using the **SFML multimedia library**. This project began as a console-based assignment for the *Programming Fundamentals* course and evolved into a fully-featured **graphical application** with music, UI elements, and persistent data.
 
@@ -118,4 +119,4 @@ Click Exit Game to safely save progress and return to the menu.
 
 
 ## 👤 Author
-Irtaza Shahzad
+**Irtaza Shahzad**

@@ -91,9 +91,13 @@ Using a compiler:
 ```bash
 g++ -std=c++11 main.cpp -o BingoApp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 ./BingoApp
+```
 Or configure via an IDE (Visual Studio, Code::Blocks) ensuring SFML paths and dependencies are correctly linked.
 
-🎮 How to Play
+
+---
+
+## 🎮 How to Play
 Launch the game – the main menu appears.
 
 Click "Play Game":
@@ -113,7 +117,5 @@ Win Condition: First to complete 5 lines (rows, columns, or diagonals).
 Click Exit Game to safely save progress and return to the menu.
 
 
-👤 Author
+## 👤 Author
 Irtaza Shahzad
-
-Developed as part of the Programming Fundamentals course with a passion for gaming and elegant C++ design.
